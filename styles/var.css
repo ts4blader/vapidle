@@ -1,0 +1,69 @@
+:root {
+  --clr-text: #333;
+  --clr-background: #fff;
+
+  /* semantic clr generate at https://clrs.eva.design/ */
+  --clr-primary: #3366ff;
+  --clr-success: #a4dd06;
+  --clr-info: #10e3ea;
+  --clr-warning: #fcb54b;
+  --clr-danger: #ff4842;
+
+  /* primary */
+  --clr-primary-100: #d6e4ff;
+  --clr-primary-200: #adc8ff;
+  --clr-primary-300: #84a9ff;
+  --clr-primary-400: #6690ff;
+  --clr-primary-500: #3366ff;
+  --clr-primary-600: #254edb;
+  --clr-primary-700: #1939b7;
+  --clr-primary-800: #102693;
+  --clr-primary-900: #091a7a;
+
+  /* success */
+  --clr-success-100: #f5fdcc;
+  --clr-success-200: #e9fb99;
+  --clr-success-300: #d6f465;
+  --clr-success-400: #c1ea3f;
+  --clr-success-500: #a4dd06;
+  --clr-success-600: #87be04;
+  --clr-success-700: #6d9f03;
+  --clr-success-800: #548001;
+  --clr-success-900: #426a01;
+
+  /* info */
+  --clr-info-100: #cefdef;
+  --clr-info-200: #9efce7;
+  --clr-info-300: #6df8e5;
+  --clr-info-400: #49f2e9;
+  --clr-info-500: #10e3ea;
+  --clr-info-600: #0bb3c9;
+  --clr-info-700: #0888a8;
+  --clr-info-800: #056287;
+  --clr-info-900: #034770;
+
+  /* warning */
+  --clr-warning-100: #fef6db;
+  --clr-warning-200: #feeab7;
+  --clr-warning-300: #fedb93;
+  --clr-warning-400: #fdcd77;
+  --clr-warning-500: #fcb54b;
+  --clr-warning-600: #d89136;
+  --clr-warning-700: #b57025;
+  --clr-warning-800: #925217;
+  --clr-warning-900: #783c0e;
+
+  /* danger */
+  --clr-danger-100: #ffe7d9;
+  --clr-danger-200: #ffc9b3;
+  --clr-danger-300: #ffa48d;
+  --clr-danger-400: #ff8171;
+  --clr-danger-500: #ff4842;
+  --clr-danger-600: #db3039;
+  --clr-danger-700: #b72136;
+  --clr-danger-800: #931531;
+  --clr-danger-900: #7a0c2e;
+}
+
+:root[data-dark] {
+}
